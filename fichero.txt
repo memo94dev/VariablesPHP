@@ -1,0 +1,2 @@
+Este es un documento de texto normal,
+para realizar pruebas con phpPrueba de escritura
